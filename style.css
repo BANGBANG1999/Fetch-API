@@ -1,0 +1,17 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+body{
+  background: url(hacker.jpg) no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+  #cards{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
